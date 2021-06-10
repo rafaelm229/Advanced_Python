@@ -2,7 +2,7 @@
 
 
 
-![](/home/rafael/code/python_projects/advanced_python/assets/1_Acz2aMKGEqOmywuX8lFO8A.jpeg)
+![](https://github.com/rafaelm229/Advanced_Python/blob/main/assets/1_Acz2aMKGEqOmywuX8lFO8A.jpeg)
 
 
 
