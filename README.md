@@ -18,7 +18,7 @@
 
 | Topics                    |
 | ------------------------- |
-| [List](link)              |
+| [List](https://github.com/rafaelm229/Advanced_Python/tree/main/List)              |
 | Tuples                    |
 | Dictionaries              |
 | Sets                      |
