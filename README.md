@@ -19,7 +19,7 @@
 | Topics                    |
 | ------------------------- |
 | [List](https://github.com/rafaelm229/Advanced_Python/tree/main/List)              |
-| Tuples                    |
+| [Tuples](https://github.com/rafaelm229/Advanced_Python/tree/main/Tuples)                    |
 | Dictionaries              |
 | Sets                      |
 | Strings                   |
